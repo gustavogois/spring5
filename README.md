@@ -6,3 +6,8 @@ Course.
 
 ## [Introduction](mdfiles/introduction/index.md)
 
+## Spring Pet Clinic
+
+- See [Spring Pet Clinic presentation](mdfiles/spc/docs/2017-01-springframeworkpetclinic-170209204315.pdf)
+
+- https://github.com/gustavogois/spring-pet-clinic 
